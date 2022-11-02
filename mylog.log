@@ -1,0 +1,5 @@
+04-Jul-22 21:48:38 - root - ERROR - Other error occurred
+Traceback (most recent call last):
+  File "c:\Users\anish\Documents\NewsPortal\BackEnd\news.py", line 19, in News
+    response = requests.get(my_url)
+NameError: name 'my_url' is not defined
